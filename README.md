@@ -9,7 +9,7 @@ Right now, I'm learning by doing: working on real projects, tackling real proble
 **Languages:** Python, C, C++, SQL  
 **Libraries & Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, BeautifulSoup  
 **BI & Visualization:** Power BI, Tableau, Advanced Excel, Zapier   
-**Others:** Git, Spark, DAX, Power Query, Tkinter
+**Others:** Git, DAX, Power Query, Tkinter
 
 **Connect with me :** 
 📧 **Email:** rgusain852@gmail.com  
